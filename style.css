@@ -1,0 +1,32 @@
+.table_container{
+	width: 100%;
+}
+
+table#game_table {
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+table#game_table, td, th {
+	border: 3px solid green;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+.tekst {
+	text-align: center;
+}
+
+.hidden {
+	opacity: 0;
+}
+
+.selected {
+	opacity: 0.5;
+}
+
+.scored {
+	opacity: 1.0;
+}
